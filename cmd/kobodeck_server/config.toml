@@ -1,0 +1,10 @@
+[Font]
+Dpi=79
+Size=32
+Spacing=2
+Fontfile="Berserker-Regular.otf"
+Hinting="none"
+[ClientDevice]
+ScreenW=1072
+ScreenH=1448
+RefreshRate=5
