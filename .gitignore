@@ -21,3 +21,4 @@
 go.work
 cmd/kobodeck_server/out.png
 cmd/kobodeck_server/update.png
+cmd/kobodeck_server/main
